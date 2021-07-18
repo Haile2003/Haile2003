@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haile2003
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on future project
+- 💞️ I’m looking to collaborate on futuristic project
 - 📫 How to reach me? By mail : jevonirmanto@yahoo.com
 
 <!---
